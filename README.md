@@ -13,11 +13,11 @@ GitLab Notifications is a Google Chrome Extensions tools like GitHub Notificatio
   - `User Name` is you GitLab account username, like me is `hotoo`
   - `Alias Name`: what people called you? luck names. when people called you in issue, merge request, or note(comment),
     you will be participating this event. multiple alias name separate by comma(`,`).
-  - `Notification`: choose the type for pop window notification.
+  - `Notification`: choose the type for pop-window notification.
 1. `Save`, and `Watching Repositories`:
   - Please wait a moment to get all of git repositories you have rights.
   - Checked what repositories you want to watching.
-1. Done. you just need quiet and wait for notifacitons.
+1. Done. you just need quiet and waiting for notifications.
 
 ## Feedback
 
