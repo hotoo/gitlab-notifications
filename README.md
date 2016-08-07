@@ -17,3 +17,7 @@ GitLab Notifications is a Google Chrome Extensions tools like GitHub Notificatio
   - Please wait a moment to get all of git repositories you have rights.
   - Checked what repositories you want to watching.
 1. Done. you just need quiet and wait for notifacitons.
+
+## Feedback
+
+- [Find or New issue](https://github.com/hotoo/gitlab-notifications/issues)
