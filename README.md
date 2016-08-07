@@ -2,7 +2,7 @@
 
 GitLab Notifications is a Google Chrome Extensions tools like GitHub Notifications.
 
-![screen shot](./screen-shot.png)
+![screen shot](./assets/screen-shot.png)
 
 ## Usage
 
