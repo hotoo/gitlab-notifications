@@ -1,4 +1,4 @@
-# GitLab Notifications
+# ![logo](./assets/logo.png) GitLab Notifications
 
 GitLab Notifications is a Google Chrome Extensions tools like GitHub Notifications.
 
