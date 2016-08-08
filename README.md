@@ -36,6 +36,14 @@ GitLab Notifications is a Google Chrome Extensions tools like GitHub Notificatio
 - Need not watching the immediately notification, you can get all of events
   (include participating events) at anytime.
 
+## How does it working?
+
+This extension worked base on GitLab API(v3).
+
+GitLab API events api just support one project events, if you watching too much
+projects, this extension will be send much more request to get all projects
+events what you watching. is sad, but I will be care about this.
+
 ## Feedback
 
 - [Find or New issue](https://github.com/hotoo/gitlab-notifications/issues)
