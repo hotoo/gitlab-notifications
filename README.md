@@ -30,10 +30,10 @@ GitLab Notifications is a Google Chrome Extensions tools like GitHub Notificatio
 - No emails, everything in one browser, You needn't switch Applications between Mail and Browser.
 - Simply and fastly.
 - Group by Issue or MergeRequest unique key, no duplicate events.
-- Direct go to the start what your unread position.
-- Auto mark readed Issue and MergeRequest as read.
-- Immediately notify when someone assignee or mention to you (or you alias name).
-- Need not watching the immediately notification, you can get all of events
+- Direct go to the start position where your unread.
+- Auto mark Issue and MergeRequest events as read when you read it.
+- Immediately notify you when someone assignee or mention to you (or you alias name).
+- You needn't watching the immediately notification, you can get all of events
   (include participating events) at anytime.
 
 ## How does it working?
