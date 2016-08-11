@@ -2,7 +2,7 @@
 
 GitLab Notifications is a Google Chrome Extensions tools like GitHub Notifications.
 
-![screen shot](./assets/screen-shot.png)
+![screen shot](./assets/screen-shot-640x400.png)
 
 ## Usage
 
@@ -15,13 +15,13 @@ GitLab Notifications is a Google Chrome Extensions tools like GitHub Notificatio
     you will be participating this event. multiple alias name separate by comma(`,`).
   - `Notification`: choose the type for browser pop-window notification.
 
-  ![screen shot options](./assets/screen-shot-options.png)
+  ![screen shot options](./assets/screen-shot-options-640x400.png)
 
 1. `Save`, and `Watching Repositories`:
   - Please wait a moment to get all of git repositories you have rights.
   - Checked what repositories you want to watching.
 
-  ![screen shot watching](./assets/screen-shot-watching.png)
+  ![screen shot watching](./assets/screen-shot-watching-640x400.png)
 
 1. Done. you just need quiet and waiting for notifications.
 
