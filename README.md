@@ -52,9 +52,9 @@ GitLab Notifications is a Google Chrome Extensions tool like GitHub Notification
 ## Badge
 
 
-![participating](./assets/badge-participating.gif) You have participating events, click badge icon goto the participationg event list.
+![participating](./assets/badge-participating.png) You have participating events, click badge icon goto the participationg event list.
 
-![watching](./assets/badge-watching.png) You have watching events, click badge icon goto the watching event list.
+![watching](./assets/badge-watching.gif) You have watching events, click badge icon goto the watching event list.
 
 ![unread](./assets/badge-unread.png) You have other unread events, click badge icon goto all event list.
 
