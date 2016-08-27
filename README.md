@@ -1,29 +1,11 @@
 # ![logo](./assets/logo.png) GitLab Notifications
 
-GitLab Notifications is a Google Chrome Extensions tools like GitHub Notifications.
 
-![screen shot](./assets/screen-shot-640x400.png)
+GitLab Notifications is a Google Chrome Extensions tool like GitHub Notifications.
 
-## Usage
 
-1. [Installation](https://chrome.google.com/webstore/detail/gitlab-notifications/neidmbjigjejpekbknfbmcgmkbfgmfmi)
-1. GitLab Notifications -> Options:
-  - `Server URL` is GitLab server url, like `https://gitlab.com`
-  - `Private Token` is a secret key, from like `https://gitlab.com/profile/account`
-  - `User Name` is you GitLab account username, like me is `hotoo`
-  - `Alias Name`: what people called you? luck names. when people called you in issue, merge request, or note(comment),
-    you will be participating this event. multiple alias name separate by comma(`,`).
-  - `Notification`: choose the type for browser pop-window notification.
+![screen shot options](./assets/screen-shot-participating-640x400.png)
 
-  ![screen shot options](./assets/screen-shot-options-640x400.png)
-
-1. `Save`, and `Watching Repositories`:
-  - Please wait a moment to get all of git repositories you have rights.
-  - Checked what repositories you want to watching.
-
-  ![screen shot watching](./assets/screen-shot-watching-640x400.png)
-
-1. Done. you just need quiet and waiting for notifications.
 
 ## Features
 
@@ -37,13 +19,64 @@ GitLab Notifications is a Google Chrome Extensions tools like GitHub Notificatio
 - You needn't watching the immediately notification, you can get all of events
   (include participating events) at anytime.
 
+![screen shot options](./assets/screen-shot-watching-640x400.png)
+
+## Install
+
+1. [Installation](https://chrome.google.com/webstore/detail/gitlab-notifications/neidmbjigjejpekbknfbmcgmkbfgmfmi)
+
+## Configuration
+
+
+1. GitLab Notifications -> Options:
+
+    ![screen shot options](./assets/screen-shot-options-640x400.png)
+
+1. Add Account:
+
+    ![screen shot options](./assets/screen-shot-options-account-640x400.png)
+
+    - `Server URL` is GitLab server url, like `https://gitlab.com`
+    - `Server Name`: named you GitLab account for display.
+    - `Private Token` is a secret key, from like `https://gitlab.com/profile/account`
+    - `User Name` is you GitLab account username, like me is `hotoo`
+    - `Alias Name`: what people called you? luck names. when people called you in issue, merge request, or note(comment),
+    you will be participating this event. multiple alias name separate by comma(`,`).
+    - `Notification`: choose the type for browser pop-window notification.
+
+1. Next Step and watching projects:
+
+    ![screen shot options](./assets/screen-shot-options-watching-640x400.png)
+
+1. `Save`, Done. you just need quiet and waiting for notifications.
+
+## Badge
+
+
+![participating](./assets/badge-participating.png) You have participating events, click badge icon goto the participationg event list.
+
+![watching](./assets/badge-watching.png) You have watching events, click badge icon goto the watching event list.
+
+![unread](./assets/badge-unread.png) You have other unread events, click badge icon goto all event list.
+
+![read](./assets/badge-read.png) You have no unread event.
+
+## Mark as read
+
+1. In GitLab Notifications center, you can manually mark notifications as read.
+2. In GitLab website, automatically mark notifications as read when you read a issue or merge request.
+
+
+## Mark as mute
+
+1. In GitLab Notifications center, you can mark notifications as mute.
+2. In GitLab website, you can toggle notifications as mute or unmute.
+
+
 ## How does it works?
 
 This extension worked base on GitLab API(v3).
 
-GitLab API events api just support one project events, if you watching too much
-projects, this extension will be send much more request to get all projects
-events what you watching. is sad, but I will be care about this.
 
 ## Feedback
 
