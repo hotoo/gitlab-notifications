@@ -88,6 +88,10 @@ GitLab Notifications is a Google Chrome Extensions tool like GitHub Notification
 1. In GitLab Notifications center, you can mark notifications as mute.
 2. In GitLab website, you can toggle notifications as mute or unmute.
 
+![Mark as mute](./assets/mark-as-mute.png)
+
+![Mark as unmute](./assets/mark-as-unmute.png)
+
 
 ## How does it works?
 
