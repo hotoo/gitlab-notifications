@@ -51,7 +51,6 @@ GitLab Notifications is a Google Chrome Extensions tool like GitHub Notification
 
 ## Badge
 
-
 ![participating](./assets/badge-participating.png) You have participating events, click badge icon goto the participationg event list.
 
 ![watching](./assets/badge-watching.gif) You have watching events, click badge icon goto the watching event list.
@@ -59,6 +58,24 @@ GitLab Notifications is a Google Chrome Extensions tool like GitHub Notification
 ![unread](./assets/badge-unread.png) You have other unread events, click badge icon goto all event list.
 
 ![read](./assets/badge-read.png) You have no unread event.
+
+
+## Event Status
+
+![issue-opened](./assets/status-issue-opened.png) Issue is opened.
+
+![issue-closed](./assets/status-issue-closed.png) Issue is closed.
+
+![issue-unknow-status](./assets/status-issue-closed.png) Unknow issue status.
+
+![MR-opened](./assets/status-mr-opened.png) Merge Request is opened.
+
+![MR-accepted](./assets/status-mr-accepted.png) Merge Request is accepted.
+
+![MR-closed](./assets/status-mr-closed.png) Merge Request is closed.
+
+![MR-unknow-status](./assets/status-mr-unknow.png) Unknow merge request status.
+
 
 ## Mark as read
 
