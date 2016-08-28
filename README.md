@@ -94,6 +94,12 @@ GitLab Notifications is a Google Chrome Extensions tool like GitHub Notification
 This extension worked base on GitLab API(v3).
 
 
+## Bad news
+
+- This extension just support Google Chrome web browser now.
+- You notifications data store on your web browser. When you use multiple browser profiles or different devices,
+  and the profiles or devices use the same GitLab accounts, you will be get duplicate notifications.
+
 ## Feedback
 
 - [User voice](./user-voice.md)
