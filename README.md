@@ -66,7 +66,7 @@ GitLab Notifications is a Google Chrome Extensions tool like GitHub Notification
 
 ![issue-closed](./assets/status-issue-closed.png) Issue is closed.
 
-![issue-unknow-status](./assets/status-issue-closed.png) Unknow issue status.
+![issue-unknow-status](./assets/status-issue-unknow.png) Unknow issue status.
 
 ![MR-opened](./assets/status-mr-opened.png) Merge Request is opened.
 
