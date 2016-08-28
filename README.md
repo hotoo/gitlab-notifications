@@ -7,14 +7,14 @@ GitLab Notifications is a Google Chrome Extensions tool like GitHub Notification
 
 ## Features
 
-- No emails, everything in one browser, You needn't switch Applications between Mail and Browser.
+- No emails, everything in one browser, You need't switch Applications between Mail and Browser.
 - Simply and fastly.
 - Multiple GitLab accounts.
 - Group by Issue or MergeRequest unique key, no duplicate events.
 - Direct go to the start position where your unread.
 - Auto mark Issue and MergeRequest events as read when you read it.
-- Immediately notify you when someone assignee or mention to you (or you alias name).
-- You needn't watching the immediately notification, you can get all of events
+- Immediately notify you when someone assignee or mention to you (or your alias name).
+- You need't watching the immediately notification, you can get all of events
   (include participating events) at anytime.
 
 ![screen shot options](./assets/screen-shot-watching-640x400.png)
@@ -36,9 +36,9 @@ GitLab Notifications is a Google Chrome Extensions tool like GitHub Notification
     ![screen shot options](./assets/screen-shot-options-account-640x400.png)
 
     - `Server URL` is GitLab server url, like `https://gitlab.com`
-    - `Server Name`: named you GitLab account for display.
+    - `Server Name`: named your GitLab account for display.
     - `Private Token` is a secret key, from like `https://gitlab.com/profile/account`
-    - `User Name` is you GitLab account username, like me is `hotoo`
+    - `User Name` is your GitLab account username, like me is `hotoo`
     - `Alias Name`: what people called you? luck names. when people called you in issue, merge request, or note(comment),
     you will be participating this event. multiple alias name separate by comma(`,`).
     - `Notification`: choose the type for browser pop-window notification.
@@ -47,7 +47,7 @@ GitLab Notifications is a Google Chrome Extensions tool like GitHub Notification
 
     ![screen shot options](./assets/screen-shot-options-watching-640x400.png)
 
-1. `Save`, Done. you just need quiet and waiting for notifications.
+1. `Save`, Done. you just quiet and waiting for notifications.
 
 ## Badge
 
@@ -101,7 +101,7 @@ This extension worked base on GitLab API(v3).
 ## Bad news
 
 - This extension just support Google Chrome web browser now.
-- You notifications data store on your web browser. When you use multiple browser profiles or different devices,
+- Your notifications data store on your web browser. When you use multiple browser profiles or different devices,
   and the profiles or devices use the same GitLab accounts, you will be get duplicate notifications.
 
 ## Feedback
