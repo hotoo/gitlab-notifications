@@ -104,6 +104,12 @@ This extension worked base on GitLab API(v3).
 - Your notifications data store on your web browser. When you use multiple browser profiles or different devices,
   and the profiles or devices use the same GitLab accounts, you will be get duplicate notifications.
 
+## Support this extension
+
+- [Star this repository](https://github.com/hotoo/gitlab-notifications)
+- [Review on Chrome Web Store](https://chrome.google.com/webstore/detail/gitlab-notifications/neidmbjigjejpekbknfbmcgmkbfgmfmi/reviews)
+
+
 ## Feedback
 
 - [User voice](./user-voice.md)
