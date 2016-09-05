@@ -42,10 +42,15 @@ GitLab Notifications is a Google Chrome Extensions tool like GitHub Notification
     - `Alias Name`: what people called you? luck names. when people called you in issue, merge request, or note(comment),
     you will be participating this event. multiple alias name separate by comma(`,`).
     - `Notification`: choose the type for browser pop-window notification.
+        - `Watching`: All of your watching projects events (Issues, Merge Requests, Comments) will popup notification you.
+        - `Participating`: All of your participating events will popup notification you.
+        - `Disable`: Disable popup notification.
+
+        ![screen shot popup notification](./assets/screen-shot-pop-notification.png)
 
 1. Next Step and watching projects:
 
-    ![screen shot options](./assets/screen-shot-options-watching-640x400.png)
+    ![screen shot options watching](./assets/screen-shot-options-watching-640x400.png)
 
 1. `Save`, Done. you just quiet and waiting for notifications.
 
