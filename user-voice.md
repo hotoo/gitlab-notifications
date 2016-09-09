@@ -1,9 +1,13 @@
 # User Voice
 
-![沉鱼](./assets/user-voice-1.png)
+![1](./assets/user-voice-1.png)
 
-![泉栈](./assets/user-voice-2.png)
+![2](./assets/user-voice-2.png)
 
-![汤尧](./assets/user-voice-3.png)
+![3](./assets/user-voice-3.png)
 
-![杨森](./assets/user-voice-4.png)
+![4](./assets/user-voice-4.png)
+
+## More User Voice
+
+- See [people reviews on Chrome Web Store](https://chrome.google.com/webstore/detail/gitlab-notifications/neidmbjigjejpekbknfbmcgmkbfgmfmi/reviews)
